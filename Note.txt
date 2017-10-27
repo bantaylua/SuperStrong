@@ -1,0 +1,5 @@
+Trong này sẽ tập hợp các target cần làm trong thời gian gần nhất, ae nào xong phần thì note vào để mọi người biết nhé:
+- Database (chi tiết thêm sau)
+- Controller (chi tiết thêm sau)
+- Model (chi tiết thêm sau)
+- View (chi tiết thêm sau)
